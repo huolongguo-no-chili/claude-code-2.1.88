@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(node:*)",
-      "Bash(dir \"D:\\\\claude-code-2.1.88\\\\src-extracted\\\\src\\\\services\" /B)"
+      "Bash(dir \"D:\\\\claude-code-2.1.88\\\\src-extracted\\\\src\\\\services\" /B)",
+      "Bash(ls:*)",
+      "Bash(wc -l \"D:/claude-code-2.1.88/doc/\"*.md)"
     ]
   }
 }
