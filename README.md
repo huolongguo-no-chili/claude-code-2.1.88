@@ -4,40 +4,40 @@
 
 [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square
 
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your terminal, IDE, or tag @claude on Github.
+Claude Code 是一款智能编程工具，运行于终端之中，能够理解您的代码库，并通过执行常规任务、解释复杂代码以及处理 git 工作流程——全部通过自然语言命令完成——来帮助您更快地编写代码。您可以在终端、IDE 中使用，或是在 Github 上 @claude。
 
-**Learn more at [Claude Code Homepage](https://claude.com/product/claude-code)** | [Documentation](https://code.claude.com/docs/en/overview)
+**了解更多：[Claude Code 主页](https://claude.com/product/claude-code)** | [文档](https://code.claude.com/docs/en/overview)
 
 <img src="https://github.com/anthropics/claude-code/blob/main/demo.gif?raw=1" />
 
-## Get started
+## 快速开始
 
-1. Install Claude Code:
+1. 安装 Claude Code：
 
 ```sh
 npm install -g @anthropic-ai/claude-code
 ```
 
-2. Navigate to your project directory and run `claude`.
+2. 进入您的项目目录并运行 `claude`。
 
-## Reporting Bugs
+## 报告问题
 
-We welcome your feedback. Use the `/bug` command to report issues directly within Claude Code, or file a [GitHub issue](https://github.com/anthropics/claude-code/issues).
+我们欢迎您的反馈。在 Claude Code 中使用 `/bug` 命令直接报告问题，或提交 [GitHub issue](https://github.com/anthropics/claude-code/issues)。
 
-## Connect on Discord
+## 加入 Discord 社区
 
-Join the [Claude Developers Discord](https://anthropic.com/discord) to connect with other developers using Claude Code. Get help, share feedback, and discuss your projects with the community.
+加入 [Claude 开发者 Discord](https://anthropic.com/discord)，与其他使用 Claude Code 的开发者交流。获取帮助、分享反馈，并与社区讨论您的项目。
 
-## Data collection, usage, and retention
+## 数据收集、使用和保留
 
-When you use Claude Code, we collect feedback, which includes usage data (such as code acceptance or rejections), associated conversation data, and user feedback submitted via the `/bug` command.
+当您使用 Claude Code 时，我们会收集反馈，其中包括使用数据（例如代码接受或拒绝情况）、相关的对话数据，以及通过 `/bug` 命令提交的用户反馈。
 
-### How we use your data
+### 我们如何使用您的数据
 
-See our [data usage policies](https://code.claude.com/docs/en/data-usage).
+请参阅我们的[数据使用政策](https://code.claude.com/docs/en/data-usage)。
 
-### Privacy safeguards
+### 隐私保护措施
 
-We have implemented several safeguards to protect your data, including limited retention periods for sensitive information and restricted access to user session data.
+我们已实施多项保护措施来保护您的数据，包括对敏感信息的有限保留期限，以及对用户会话数据的受限访问。
 
-For full details, please review our [Commercial Terms of Service](https://www.anthropic.com/legal/commercial-terms) and [Privacy Policy](https://www.anthropic.com/legal/privacy).
+如需完整详情，请查阅我们的[商业服务条款](https://www.anthropic.com/legal/commercial-terms)和[隐私政策](https://www.anthropic.com/legal/privacy)。
